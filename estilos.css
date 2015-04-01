@@ -363,6 +363,7 @@ aside
 
 .formulario
 {
+	display: none;
 	padding: 1em;
 	text-align: right;
 }
